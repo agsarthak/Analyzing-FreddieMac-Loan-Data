@@ -1,8 +1,4 @@
-'''
-Created on Mar 17, 2017
 
-@author: Aashri
-'''
 
 # coding: utf-8
 
